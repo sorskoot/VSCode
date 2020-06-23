@@ -1,0 +1,9 @@
+Type
+
+belangrijk:
+    ☐ @critical item 3
+    sub:
+        ☐ subitem 
+Archive:
+  ✔ item 1 @done(20-06-02 16:33) @project(belangrijk)
+  ✘ item 2 @cancelled(20-06-02 16:33) @project(belangrijk)
