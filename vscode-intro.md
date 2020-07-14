@@ -15,9 +15,9 @@ showNotes: false
 _An introduction to VSCode_
 
 note: Clearly explain goal of presentation
-note: Enable `Screencast mode` To show shortcuts
-note: Explain agenda
-note: Only top slides + demo, others as backup
+Enable `Screencast mode` To show shortcuts,
+Explain agenda,
+Only top slides + demo, others as backup
 
 ---
 

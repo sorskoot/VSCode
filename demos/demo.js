@@ -10,6 +10,14 @@ class Calc {
     }
 }
 
+/**
+ * demoFunction 
+ * @param {string} value een waarde
+ */
+function demoFunction(value){
+   
+}
+
 
 /**
  * demo 
@@ -21,5 +29,7 @@ function demo(value){
 
 const calc = new Calc();
 
-calc.multiply(7);
-
+for (let i = 0; i < 700; i++) {   
+    const x = calc.multiply(i);    
+    
+}
